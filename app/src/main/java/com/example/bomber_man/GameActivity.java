@@ -14,7 +14,7 @@ public class GameActivity extends AppCompatActivity {
 
     // 壊せないブロックのIDを格納するセット
     private Set<Integer> unbreakableBlocks = new HashSet<>();
-    private int[][] blocks = new int[10][13];
+    public static int[][] blocks = new int[10][13];
     private ImageView[][] blockImages = new ImageView[10][13];
 
     @Override
