@@ -6,7 +6,7 @@
     android:layout_height="match_parent">
 
     <ImageView
-        android:id="@+id/imageView7"
+        android:id="@+id/block20"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -18,7 +18,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView8"
+        android:id="@+id/block51"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -30,7 +30,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView17"
+        android:id="@+id/block13"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -42,7 +42,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView18"
+        android:id="@+id/block09"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -54,7 +54,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView19"
+        android:id="@+id/block08"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -66,7 +66,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView20"
+        android:id="@+id/block07"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -78,7 +78,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView21"
+        android:id="@+id/block06"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -90,7 +90,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView22"
+        android:id="@+id/block05"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -102,7 +102,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView23"
+        android:id="@+id/block04"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -114,7 +114,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView24"
+        android:id="@+id/block03"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -126,7 +126,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView25"
+        android:id="@+id/block52"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -138,7 +138,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView26"
+        android:id="@+id/block02"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -150,7 +150,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView27"
+        android:id="@+id/block11"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -162,7 +162,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView28"
+        android:id="@+id/block00"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -174,7 +174,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView29"
+        android:id="@+id/block90"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -182,11 +182,11 @@
         app:layout_constraintHorizontal_bias="0.221"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.839"
+        app:layout_constraintVertical_bias="0.844"
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView33"
+        android:id="@+id/block23"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -210,7 +210,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView54"
+        android:id="@+id/block112"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -234,7 +234,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView90"
+        android:id="@+id/block411"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -246,7 +246,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView91"
+        android:id="@+id/block811"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -254,11 +254,11 @@
         app:layout_constraintHorizontal_bias="0.728"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.754"
+        app:layout_constraintVertical_bias="0.765"
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView92"
+        android:id="@+id/block79"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -270,7 +270,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView123"
+        android:id="@+id/block74"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -282,7 +282,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView124"
+        android:id="@+id/block75"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -294,7 +294,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView125"
+        android:id="@+id/block88"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -302,11 +302,11 @@
         app:layout_constraintHorizontal_bias="0.59"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.754"
+        app:layout_constraintVertical_bias="0.765"
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView126"
+        android:id="@+id/block76"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -318,7 +318,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView127"
+        android:id="@+id/block77"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -330,7 +330,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView128"
+        android:id="@+id/block89"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -342,7 +342,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView129"
+        android:id="@+id/block78"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -354,7 +354,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView110"
+        android:id="@+id/block810"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -362,11 +362,11 @@
         app:layout_constraintHorizontal_bias="0.682"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.754"
+        app:layout_constraintVertical_bias="0.765"
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView111"
+        android:id="@+id/block710"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -378,7 +378,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView112"
+        android:id="@+id/block711"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -386,11 +386,11 @@
         app:layout_constraintHorizontal_bias="0.728"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.67"
+        app:layout_constraintVertical_bias="0.68"
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView113"
+        android:id="@+id/block610"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -402,7 +402,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView114"
+        android:id="@+id/block69"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -414,7 +414,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView115"
+        android:id="@+id/block68"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -426,7 +426,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView116"
+        android:id="@+id/block67"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -438,7 +438,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView117"
+        android:id="@+id/block66"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -450,7 +450,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView118"
+        android:id="@+id/block65"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -462,7 +462,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView119"
+        android:id="@+id/block64"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -474,7 +474,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView120"
+        android:id="@+id/block83"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -482,11 +482,11 @@
         app:layout_constraintHorizontal_bias="0.361"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.754"
+        app:layout_constraintVertical_bias="0.765"
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView121"
+        android:id="@+id/block73"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -498,7 +498,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView122"
+        android:id="@+id/block63"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -510,7 +510,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView93"
+        android:id="@+id/block510"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -522,7 +522,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView94"
+        android:id="@+id/block59"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -534,7 +534,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView95"
+        android:id="@+id/block58"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -546,7 +546,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView96"
+        android:id="@+id/block57"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -558,7 +558,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView97"
+        android:id="@+id/block56"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -570,7 +570,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView98"
+        android:id="@+id/block55"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -582,7 +582,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView99"
+        android:id="@+id/block54"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -594,7 +594,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView100"
+        android:id="@+id/block53"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -606,7 +606,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView101"
+        android:id="@+id/block43"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -618,7 +618,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView102"
+        android:id="@+id/block44"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -630,7 +630,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView103"
+        android:id="@+id/block45"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -642,7 +642,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView104"
+        android:id="@+id/block46"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -654,7 +654,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView105"
+        android:id="@+id/block47"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -666,7 +666,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView106"
+        android:id="@+id/block48"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -678,7 +678,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView107"
+        android:id="@+id/block49"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -690,7 +690,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView108"
+        android:id="@+id/block511"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -702,7 +702,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView109"
+        android:id="@+id/block410"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -714,7 +714,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView56"
+        android:id="@+id/block310"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -726,7 +726,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView57"
+        android:id="@+id/block39"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -738,7 +738,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView58"
+        android:id="@+id/block38"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -750,7 +750,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView59"
+        android:id="@+id/block37"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -762,7 +762,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView60"
+        android:id="@+id/block36"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -774,7 +774,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView61"
+        android:id="@+id/block35"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -786,7 +786,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView62"
+        android:id="@+id/block34"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -798,7 +798,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView63"
+        android:id="@+id/block311"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -810,7 +810,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView64"
+        android:id="@+id/block210"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -822,7 +822,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView65"
+        android:id="@+id/block29"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -834,7 +834,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView66"
+        android:id="@+id/block28"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -846,7 +846,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView67"
+        android:id="@+id/block27"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -858,7 +858,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView68"
+        android:id="@+id/block26"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -870,7 +870,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView69"
+        android:id="@+id/block25"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -882,7 +882,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView70"
+        android:id="@+id/block24"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -894,7 +894,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView71"
+        android:id="@+id/block33"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -906,7 +906,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView72"
+        android:id="@+id/block95"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -918,7 +918,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView73"
+        android:id="@+id/block96"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -930,7 +930,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView74"
+        android:id="@+id/block97"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -942,7 +942,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView75"
+        android:id="@+id/block98"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -954,7 +954,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView76"
+        android:id="@+id/block94"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -966,7 +966,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView77"
+        android:id="@+id/block93"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -978,7 +978,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView78"
+        android:id="@+id/block911"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -990,7 +990,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView79"
+        android:id="@+id/block910"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1002,7 +1002,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView80"
+        android:id="@+id/block99"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1014,7 +1014,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView81"
+        android:id="@+id/block912"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1026,7 +1026,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView82"
+        android:id="@+id/block812"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1038,7 +1038,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView83"
+        android:id="@+id/block712"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1050,7 +1050,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView84"
+        android:id="@+id/block612"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1062,7 +1062,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView85"
+        android:id="@+id/block512"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1074,7 +1074,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView86"
+        android:id="@+id/block412"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1086,7 +1086,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView87"
+        android:id="@+id/block312"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1098,7 +1098,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView88"
+        android:id="@+id/block211"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1110,7 +1110,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView89"
+        android:id="@+id/block212"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1122,7 +1122,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView35"
+        android:id="@+id/block111"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1134,7 +1134,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView36"
+        android:id="@+id/block110"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1146,7 +1146,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView37"
+        android:id="@+id/block19"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1158,7 +1158,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView38"
+        android:id="@+id/block18"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1170,7 +1170,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView39"
+        android:id="@+id/block17"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1182,7 +1182,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView40"
+        android:id="@+id/block16"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1194,7 +1194,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView41"
+        android:id="@+id/block15"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1206,7 +1206,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView42"
+        android:id="@+id/block14"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1218,7 +1218,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView43"
+        android:id="@+id/block86"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1226,11 +1226,11 @@
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.754"
+        app:layout_constraintVertical_bias="0.765"
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView130"
+        android:id="@+id/block87"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1242,7 +1242,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView44"
+        android:id="@+id/block011"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1254,7 +1254,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView45"
+        android:id="@+id/block010"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1266,7 +1266,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView46"
+        android:id="@+id/block92"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1278,7 +1278,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView47"
+        android:id="@+id/block91"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1286,11 +1286,11 @@
         app:layout_constraintHorizontal_bias="0.267"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.844"
+        app:layout_constraintVertical_bias="0.846"
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView48"
+        android:id="@+id/block82"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1302,7 +1302,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView49"
+        android:id="@+id/block81"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1314,7 +1314,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView50"
+        android:id="@+id/block72"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1326,7 +1326,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView51"
+        android:id="@+id/block71"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1338,7 +1338,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView52"
+        android:id="@+id/block62"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1350,7 +1350,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView53"
+        android:id="@+id/block61"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1362,7 +1362,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView30"
+        android:id="@+id/block80"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1374,7 +1374,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView31"
+        android:id="@+id/block70"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1386,7 +1386,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView32"
+        android:id="@+id/block60"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1398,7 +1398,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView9"
+        android:id="@+id/block50"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1410,7 +1410,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView10"
+        android:id="@+id/block42"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1422,7 +1422,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView11"
+        android:id="@+id/block32"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1434,7 +1434,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView12"
+        android:id="@+id/block12"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1446,7 +1446,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView13"
+        android:id="@+id/block22"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1458,7 +1458,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView14"
+        android:id="@+id/block41"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1470,7 +1470,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView15"
+        android:id="@+id/block40"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1482,7 +1482,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView16"
+        android:id="@+id/block30"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1494,7 +1494,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView6"
+        android:id="@+id/block31"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1506,7 +1506,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView5"
+        android:id="@+id/block10"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1530,7 +1530,7 @@
         app:layout_constraintVertical_bias="0.872" />
 
     <com.google.android.material.chip.Chip
-        android:id="@+id/chip4"
+        android:id="@+id/right"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1541,7 +1541,7 @@
         app:layout_constraintVertical_bias="0.831" />
 
     <com.google.android.material.chip.Chip
-        android:id="@+id/chip5"
+        android:id="@+id/top"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1552,7 +1552,7 @@
         app:layout_constraintVertical_bias="0.703" />
 
     <com.google.android.material.chip.Chip
-        android:id="@+id/chip6"
+        android:id="@+id/under"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1563,7 +1563,7 @@
         app:layout_constraintVertical_bias="0.959" />
 
     <com.google.android.material.chip.Chip
-        android:id="@+id/chip7"
+        android:id="@+id/left"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1574,15 +1574,19 @@
         app:layout_constraintVertical_bias="0.831" />
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/stopbutton"
         android:layout_width="55dp"
         android:layout_height="63dp"
-        app:srcCompat="@android:drawable/ic_media_pause"
-        tools:layout_editor_absoluteX="660dp"
-        tools:layout_editor_absoluteY="3dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.976"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.045"
+        app:srcCompat="@android:drawable/ic_media_pause" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/item"
         android:layout_width="63dp"
         android:layout_height="33dp"
         android:text="ITEM!"
@@ -1594,7 +1598,7 @@
         app:layout_constraintVertical_bias="0.085" />
 
     <ImageView
-        android:id="@+id/imageView3"
+        android:id="@+id/block01"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1606,7 +1610,7 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView4"
+        android:id="@+id/block21"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -1618,35 +1622,63 @@
         app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView131"
+        android:id="@+id/block012"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@android:drawable/btn_dialog"
-        tools:layout_editor_absoluteX="541dp"
-        tools:layout_editor_absoluteY="34dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.773"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.084"
+        app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView134"
+        android:id="@+id/block611"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@android:drawable/btn_dialog"
-        tools:layout_editor_absoluteX="509dp"
-        tools:layout_editor_absoluteY="222dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.728"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.596"
+        app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView135"
+        android:id="@+id/block85"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@android:drawable/btn_dialog"
-        tools:layout_editor_absoluteX="317dp"
-        tools:layout_editor_absoluteY="290dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.45"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.762"
+        app:srcCompat="@android:drawable/btn_dialog" />
 
     <ImageView
-        android:id="@+id/imageView136"
+        android:id="@+id/block84"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@android:drawable/btn_dialog"
-        tools:layout_editor_absoluteX="283dp"
-        tools:layout_editor_absoluteY="289dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.407"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.765"
+        app:srcCompat="@android:drawable/btn_dialog" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="123dp"
+        android:layout_height="122dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.026"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.463"
+        tools:srcCompat="@tools:sample/avatars" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
