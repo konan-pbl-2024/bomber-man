@@ -27,7 +27,7 @@ public class MoveActivity {
     }
     public static void down_move(int x, int y) {
         if((x + 1) < 10){
-            if(GameActivity.blocks[y-3][x] == 0){
+            if(GameActivity.blocks[y+1][x] == 0){
                 GameActivity.blocks[y][x] = 0;
                 GameActivity.blocks[y+1][x] = 3;
             }
