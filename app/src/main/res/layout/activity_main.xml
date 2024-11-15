@@ -7,38 +7,52 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/item"
-        android:layout_width="69dp"
-        android:layout_height="22dp"
+        android:id="@+id/textView"
+        android:layout_width="648dp"
+        android:layout_height="186dp"
         android:rotationX="0"
         android:rotationY="1"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.287" />
+        app:layout_constraintVertical_bias="1.0" />
 
     <Button
         android:id="@+id/start_button"
-        android:layout_width="415dp"
-        android:layout_height="110dp"
+        android:layout_width="258dp"
+        android:layout_height="74dp"
         android:text="START!!!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.554"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.96" />
+        app:layout_constraintVertical_bias="0.521" />
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="415dp"
-        android:layout_height="286dp"
+        android:layout_width="931dp"
+        android:layout_height="573dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.024"
-        app:srcCompat="@drawable/_18_10_2024_175559_discord_com" />
+        app:layout_constraintVertical_bias="0.411"
+        app:srcCompat="@drawable/haikei_" />
+
+    <ImageView
+        android:id="@+id/imageView137"
+        android:layout_width="341dp"
+        android:layout_height="115dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.532"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.552"
+        app:srcCompat="@drawable/start3" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
