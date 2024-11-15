@@ -13,6 +13,7 @@ import java.util.Set;
 public class GameActivity extends AppCompatActivity {
 
     // 壊せないブロックのIDを格納するセット
+
     private Set<Integer> unbreakableBlocks = new HashSet<>();
     public static int[][] blocks = new int[10][13];
     private ImageView[][] blockImages = new ImageView[10][13];
