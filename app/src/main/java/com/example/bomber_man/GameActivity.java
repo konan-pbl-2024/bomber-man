@@ -13,6 +13,7 @@ import java.util.Set;
 
 public class GameActivity extends AppCompatActivity {
 
+
     // 壊せないブロックのIDを格納するセット
     private Set<Integer> unbreakableBlocks = new HashSet<>();
     public static int[][] blocks = new int[10][13];
@@ -331,6 +332,7 @@ public class GameActivity extends AppCompatActivity {
         blocks[9][10] = 1;
         blocks[9][11] = 1;
         blocks[9][12] = 2;
+        updateBlockImages();
 
 //移動コマンド
         Button upButton = findViewById(R.id.top);
@@ -341,24 +343,28 @@ public class GameActivity extends AppCompatActivity {
             public void onClick(View v) {
                 MoveActivity.up_move(player_x, player_y);
                 player_y -= 1;
+                updateBlockImages();
             }
         });
         leftButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 MoveActivity.Left_move(player_x, player_y);
                 player_x -= 1;
+                updateBlockImages();
             }
         });
         rightButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 MoveActivity.Right_move(player_x, player_y);
                 player_x += 1;
+                updateBlockImages();
             }
         });
         downButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 MoveActivity.down_move(player_x, player_y);
                 player_y += 1;
+                updateBlockImages();
             }
         });
 
