@@ -36,8 +36,6 @@ public class GameActivity extends AppCompatActivity {
                         break;
                     case 3: // プレイヤー (player)
                         blockImages[i][j].setImageResource(R.drawable.human); // プレイヤーの画像をセット
-                        blockImages[i][j].setScaleX(0.25f);
-                        blockImages[i][j].setScaleY(0.25f);
                         break;
                 }
             }
