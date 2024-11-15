@@ -343,29 +343,37 @@ public class GameActivity extends AppCompatActivity {
         Button downButton = findViewById(R.id.under);
         upButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                MoveActivity.up_move(player_x, player_y);
-                player_y -= 1;
+                boolean flag = MoveActivity.up_move(player_x, player_y);
+                if (flag) {
+                    player_y -= 1;
+                }
                 updateBlockImages();
             }
         });
         leftButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                MoveActivity.Left_move(player_x, player_y);
-                player_x -= 1;
+                boolean flag = MoveActivity.Left_move(player_x, player_y);
+                if(flag) {
+                    player_x -= 1;
+                }
                 updateBlockImages();
             }
         });
         rightButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                MoveActivity.Right_move(player_x, player_y);
-                player_x += 1;
+                boolean flag = MoveActivity.Right_move(player_x, player_y);
+                if(flag) {
+                    player_x += 1;
+                }
                 updateBlockImages();
             }
         });
         downButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                MoveActivity.down_move(player_x, player_y);
-                player_y += 1;
+                boolean flag = MoveActivity.down_move(player_x, player_y);
+                if(flag) {
+                    player_y += 1;
+                }
                 updateBlockImages();
             }
         });
