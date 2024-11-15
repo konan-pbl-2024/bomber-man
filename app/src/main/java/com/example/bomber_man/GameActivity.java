@@ -17,6 +17,28 @@ public class GameActivity extends AppCompatActivity {
     public static int[][] blocks = new int[10][13];
     private ImageView[][] blockImages = new ImageView[10][13];
 
+    // ブロックの状態に基づいて画像を更新するメソッド
+    private void updateBlockImages() {
+        for (int i = 0; i < 10; i++) {
+            for (int j = 0; j < 13; j++) {
+                switch (blocks[i][j]) {
+                    case 0: // 道 (road)
+                        blockImages[i][j].setImageResource(R.drawable.road); // 道の画像をセット
+                        break;
+                    case 1: // 壁 (wall)
+                        blockImages[i][j].setImageResource(R.drawable.wall); // 壁の画像をセット
+                        break;
+                    case 2: // ゴール (goal)
+                        blockImages[i][j].setImageResource(R.drawable.goal); // ゴールの画像をセット
+                        break;
+                    case 3: // プレイヤー (player)
+//                        blockImages[i][j].setImageResource(R.drawable.player); // プレイヤーの画像をセット
+//                        break;
+                }
+            }
+        }
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
