@@ -1,8 +1,15 @@
 package com.example.bomber_man;
 
+import javax.net.ssl.SSLEngineResult;
+
 public class StatusActivity {
-    int player_x = 0;
-    int player_y = 0;
-    int movespeed = 0;
+    String name;
+    double player_x;
+    double player_y;
+
+    StatusActivity(double x, double y){
+        player_x = x;
+        player_y = y;
+    }
 
 }
