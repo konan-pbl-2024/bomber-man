@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.view.View;
 //import android.widget.GridLayout;
 //import android.widget.ImageView;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
@@ -16,6 +17,9 @@ public class GameActivity extends AppCompatActivity {
     private Set<Integer> unbreakableBlocks = new HashSet<>();
     public static int[][] blocks = new int[10][13];
     private ImageView[][] blockImages = new ImageView[10][13];
+
+    int player_x = 0;
+    int player_y = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -304,6 +308,35 @@ public class GameActivity extends AppCompatActivity {
         blocks[9][11] = 1;
         blocks[9][12] = 2;
 
+//移動コマンド
+        Button upButton = findViewById(R.id.top);
+        Button leftButton = findViewById(R.id.left);
+        Button rightButton = findViewById(R.id.right);
+        Button downButton = findViewById(R.id.under);
+        upButton.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                MoveActivity.up_move(player_x, player_y);
+                player_y -= 1;
+            }
+        });
+        leftButton.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                MoveActivity.Left_move(player_x, player_y);
+                player_x -= 1;
+            }
+        });
+        rightButton.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                MoveActivity.Right_move(player_x, player_y);
+                player_x += 1;
+            }
+        });
+        downButton.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                MoveActivity.down_move(player_x, player_y);
+                player_y += 1;
+            }
+        });
 
 
 

@@ -1,5 +1,7 @@
 package com.example.bomber_man;
 
+import android.widget.Button;
+
 import javax.net.ssl.SSLEngineResult;
 
 public class StatusActivity {
@@ -11,5 +13,6 @@ public class StatusActivity {
         player_x = x;
         player_y = y;
     }
+
 
 }
