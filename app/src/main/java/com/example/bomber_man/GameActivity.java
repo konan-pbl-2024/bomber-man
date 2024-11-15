@@ -339,6 +339,8 @@ public class GameActivity extends AppCompatActivity {
         Button leftButton = findViewById(R.id.left);
         Button rightButton = findViewById(R.id.right);
         Button downButton = findViewById(R.id.under);
+        Button goalButton = findViewById(R.id.wakaran);
+
         upButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 boolean flag = MoveActivity.up_move(player_x, player_y);
@@ -373,6 +375,11 @@ public class GameActivity extends AppCompatActivity {
                     player_y += 1;
                 }
                 updateBlockImages();
+            }
+        });
+        goalButton.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                setContentView(R.layout.activity_goal2);
             }
         });
 
