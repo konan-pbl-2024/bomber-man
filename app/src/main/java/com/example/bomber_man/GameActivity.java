@@ -25,18 +25,20 @@ public class GameActivity extends AppCompatActivity {
         for (int i = 0; i < 10; i++) {
             for (int j = 0; j < 13; j++) {
                 switch (blocks[i][j]) {
-                    case 0: // 道 (road)
+                    case 1: // 道 (road)
                         blockImages[i][j].setImageResource(R.drawable.road); // 道の画像をセット
                         break;
-                    case 1: // 壁 (wall)
+                    case 0: // 壁 (wall)
                         blockImages[i][j].setImageResource(R.drawable.wall); // 壁の画像をセット
                         break;
                     case 2: // ゴール (goal)
                         blockImages[i][j].setImageResource(R.drawable.goal); // ゴールの画像をセット
                         break;
                     case 3: // プレイヤー (player)
-//                        blockImages[i][j].setImageResource(R.drawable.player); // プレイヤーの画像をセット
-//                        break;
+                        blockImages[i][j].setImageResource(R.drawable.human); // プレイヤーの画像をセット
+                        blockImages[i][j].setScaleX(0.25f);
+                        blockImages[i][j].setScaleY(0.25f);
+                        break;
                 }
             }
         }
